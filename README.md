@@ -47,4 +47,4 @@ This will output the execution times to `performance_for_all_versions_results.cs
 ## Performance Comparison
 
 
-![Performance Comparison of Different Variants](images/graph.png)
+![Performance Comparison of Different Variants](images/graph.JPG)
